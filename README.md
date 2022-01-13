@@ -2,8 +2,7 @@
 
 This assignment will help you get started with brushing and linking. Please look through all these materials so you understand how to run and organize your code.
 
-Link to your page: https://github.io/kaiting0415/Kek-Kai-Ting-and-Kit-Yan-Tian.git
-E.g., https://neu-cs-7250-s20-staff.github.io/Assignment--Brushing_and_Linking/
+Link to your page: https://kaiting0415.github.io/Kek-Kai-Ting-and-Kit-Yan-Tian.github.io/
 
 # Aim of the assignment
 
